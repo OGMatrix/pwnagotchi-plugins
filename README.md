@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jayofelony/pwnagotchi/master/ui/web/static/img/logo.png" alt="pwnagotchi" width="120"/>
+  (⌐■_■)
 </p>
 
 <h1 align="center">pwnagotchi-plugins</h1>
