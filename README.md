@@ -274,7 +274,7 @@ events  = ["crack", "handshake"]
 
 [main.plugins.fast_dictionary]
 enabled               = true
-wordlist_folder        = "/usr/share/wordlists/"
+wordlist_folder        = "/home/pi/wordlists/"
 time_per_wordlist      = 5        # minutes
 max_cpu_cores          = 1
 max_cpu_temp           = 70       # pause cracking above this (Celsius)
